@@ -12,6 +12,6 @@ Given a record of every transaction during a three month period, calculate the r
 
 #### `Instructions for running the project on a local machine:`
 
-$ git clone https://github.com/Mohdeh/Rewards-Calculator-Restful.git
+$ git clone https://github.com/syke2good/WebAPI-Developer.git
 
 $ mvn spring-boot: run
